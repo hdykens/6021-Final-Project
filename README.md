@@ -16,6 +16,9 @@ Expansive EDA on the Kaggle data titled ["Sleep & Doomscrolling Habits Dataset"]
 
 [`Sleep_MNR_V1.ipynb`](Sleep_MNR_V1.ipynb) provides initial data cleaning and implementation of both **one vs. rest and multinomial regression** using almost all coefficients as predictors for sleep quality score. The issue here was that the data was heavily skewed towards higher sleep qualities. Grouping the lower quality sleep scores that were not as frequent did not seem to help by much. The best model selected was one vs. rest with a higher macro F1 by ~ 0.05 and a lower test log loss by ~ 0.07 from predicting that all participants have a the most common sleep quality score (the baseline). This indicates that this model may need lasso regularization to be better than the baseline.
 
+### 📁[`Lasso Regularization`](./Lasso Regularization)
+[`Linear Regression.ipynb`](Linear Regression.ipynb) 
+
 ### [`.gitignore`](.gitignore)
 This is a standard .gitignore file that we have not edited.
 
