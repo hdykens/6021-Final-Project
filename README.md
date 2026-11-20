@@ -17,7 +17,7 @@ Expansive EDA on the Kaggle data titled ["Sleep & Doomscrolling Habits Dataset"]
 [`Lasso_MVR_Binned_Sleep_Hours_v1.ipynb`](03_Lasso_Regularization/Lasso_MVR_Binned_Sleep_Hours_v1.ipynb) performs lasso regularization on binned sleep hours with a both **one vs. rest and multinomial regression**. The chosen model based on test set performance is one vs. rest with lasso which uses a fitted C-value of 0.15 based on 5-fold cross-validation with a higher macro F1 by ~ 0.1 and a lower test log loss by ~ 0.08 from predicting that all participants have the most common sleep hour bin of (7.0, 7.5] hours (the new baseline). This indicates that the model is still not performing extremely well, but at least it is beating the baseline.
 
 ### 📁[`04_Deliverables_and_Rubric`](./04_Deliverables_and_Rubric`)
-[`DS_6021_Final Project Rubric.pdf`](DS_6021_Final Project Rubric.pdf) contains the rubric for our final presentation and dashboard.
+[`DS_6021_Final_Project_Rubric.pdf`](04_Deliverables_and_Rubric/DS_6021_Final_Project_Rubric.pdf) contains the rubric for our final presentation and dashboard.
 
 This folder will also contain our PowerPoint and hopefully a way to access the final product of our dashboard. It was too difficult to edit a PowerPoint in VS Code which is why the PowerPoint will be added once it is finalized.
 
