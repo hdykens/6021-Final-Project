@@ -21,7 +21,7 @@ Expansive EDA on the Kaggle data titled ["Sleep & Doomscrolling Habits Dataset"]
 
 This folder will also contain our PowerPoint and hopefully a way to access the final product of our dashboard. It was too difficult to edit a PowerPoint in VS Code which is why the PowerPoint will be added once it is finalized.
 
-### 📁[`05_CDC_YRBS_EDA`](./04_CDC_YRBS_EDA)
+### 📁[`05_CDC_YRBS_EDA`](./05_CDC_YRBS_EDA)
 *NOTE: Not used for subsequently for this project.*
 
 Very preliminary Exploratory Data Analysis (EDA) for CDC Youth Risk Behavior Surveillance System. At the start of the project, our main focus was to see how doom scrolling affects sleep. We ultimately decided there was not enough data regarding phone usage with only one question (Q77 in the [CDC codebook](https://www.cdc.gov/yrbs/files/2025/2025-YRBS-Data-Users-Guide-Final.pdf)) asking about how often the respondent uses social media. Thus, we decided the Kaggle dataset below would be better. 
