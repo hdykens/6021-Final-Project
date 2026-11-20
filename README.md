@@ -19,7 +19,7 @@ Expansive EDA on the Kaggle data titled ["Sleep & Doomscrolling Habits Dataset"]
 ### 📁[`04_Deliverables_and_Rubric`](./04_Deliverables_and_Rubric)
 [`DS_6021_Final_Project_Rubric.pdf`](04_Deliverables_and_Rubric/DS_6021_Final_Project_Rubric.pdf) contains the rubric for our final presentation and dashboard.
 
-This folder will also contain our PowerPoint and hopefully a way to access the final product of our dashboard. It was too difficult to edit a PowerPoint in VS Code which is why the PowerPoint will be added once it is finalized.
+This folder will also contain our PowerPoint and hopefully a way to access the final product of our dashboard. It is too difficult to edit a PowerPoint in VS Code which is why the PowerPoint will be added once it is finalized.
 
 ### 📁[`05_CDC_YRBS_EDA`](./05_CDC_YRBS_EDA)
 *NOTE: Not used for subsequently for this project.*
